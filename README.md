@@ -1,5 +1,5 @@
 Project Kopsekopsekop Cinema Booking.
-project ini dikerjakan oleh kelompok Kopsekopsekop yang beranggotakan Jhon Piter Situmorang (052).
+Project ini dikerjakan oleh kelompok Kopsekopsekop yang beranggotakan Jhon Piter Situmorang (052).
 Project ini dibuat sebagai bahan pemenuhan nilai UAS Lab Dasar Pemrograman.
 Project ini dibuat untuk menyelesaikan permasalahan antrian panjang dan lama di bioskop ketika ramai pengunjung sehingga dengan program ini, proses pembelian tiket film akan dilakukan lebih cepat dan tepat.
 
